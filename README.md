@@ -1,1 +1,1 @@
-# MyYu-Gi-OhHandbook
+# My Yu-Gi-Oh Handbook
