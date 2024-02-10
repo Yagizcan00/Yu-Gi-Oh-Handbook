@@ -66,6 +66,66 @@ export const cardData = [
         "Card Name": "Negate Attack",
         "Card Explanation English": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.",
         "Card Explanation Turkish": "Rakibin canavarı bir saldırı ilan ettiğinde: Saldıran canavarı hedef alın; saldırıyı engelleyin, ardından Savaş Aşamasını sonlandırın."
-    }
+    },
+    {
+        "id": 11,
+        "Card Name": "Fusion Recovery",
+        "Card Explanation English": "Target 1 'Polymerization' in your GY, and 1 monster in your GY that was used as material for a Fusion Summon; add them to your hand.",
+        "Card Explanation Turkish": "GY'nizde 1 'Polimerizasyon'u ve GY'nizde Füzyon Çağrısı için malzeme olarak kullanılan 1 canavarı hedefleyin; bunları elinize ekleyin."
+    },
+    {
+        "id": 12,
+        "Card Name": "Last Will",
+        "Card Explanation English": "If a monster on your side of the field was sent to your Graveyard this turn, you can Special Summon 1 monster with an ATK of 1500 points or less from your Deck once during this turn. Then shuffle your Deck.",
+        "Card Explanation Turkish": "Bu tur sahanızdaki bir canavar Mezarlığınıza gönderildiyse, bu tur sırasında destenizden 1500 veya daha az ATK puanına sahip 1 canavarı Özel Çağırabilirsiniz. Daha sonra destenizi karıştırın."
+    },
+    {
+        "id": 13,
+        "Card Name": "Mesmeric Control",
+        "Card Explanation English": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
+        "Card Explanation Turkish": "Rakibiniz, bu kartı etkinleştirildikten bir sonraki turunda, kart efekti haricinde canavarların savaş konumlarını değiştiremez."
+    },
+    {
+        "id": 14,
+        "Card Name": "The Flute of Summoning Dragon",
+        "Card Explanation English": "Special Summon up to 2 Dragon monsters from your hand. 'Lord of D.' must be on the field to activate and to resolve this effect.",
+        "Card Explanation Turkish": "'Lord of D.' canavarı sahada ise elinizden en fazla 2 Ejderha canavarını özel olarak çağırın."
+    },
+    {
+        "id": 15,
+        "Card Name": "Burning Land",
+        "Card Explanation English": "When this card is activated: If there are any Field Spell Cards on the field, destroy them. During each player's Standby Phase: The turn player takes 500 damage.",
+        "Card Explanation Turkish": "Bu kart çalıştırıldığında: Eğer sahada herhangi bir Saha Büyü Kartı varsa, onları yok edin. Her oyuncunun Bekleme Aşamasında: Sıradaki oyuncu 500 hasar alır."
+    },
+    {
+        "id": 16,
+        "Card Name": "Brain Control",
+        "Card Explanation English": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
+        "Card Explanation Turkish": "800 LP ödeyin, ardından rakibinizin kontrolündeki açık veya kapalı bir canavar kartını hedefleyin; Son Aşamaya kadar o hedefin kontrolünü elinize alın."
+    },
+    {
+        "id": 17,
+        "Card Name": "Roulette Spider",
+        "Card Explanation English": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result. 1: Halve your LP. 2: Make that attack a direct attack. 3: Choose 1 monster you control, change the attack target to it, and perform damage calculation. 4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation. 5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK. 6: Destroy that opponent's monster.",
+        "Card Explanation Turkish": "Rakibin canavarı bir saldırı ilan ettiğinde: Altı yüzlü bir zar atın ve sonucu uygulayın. 1: LP'nizi yarıya indirin. 2: Bu saldırıyı doğrudan bir saldırı haline getirin. 3: Kontrol ettiğiniz 1 canavarı seçin, saldırı hedefini ona göre değiştirin ve hasar hesaplamasını yapın. 4: Rakibinizin kontrolündeki diğer 1 canavarı seçin, saldırı hedefini onunla değiştirin ve hasar hesaplamasını yapın. 5: Saldırıyı engelleyin ve eğer yaparsanız rakibinize o canavarın ATK'sına eşit hasar verin. 6: Rakibin canavarını yok edin."
+    },
+    {
+        "id": 18,
+        "Card Name": "Card Destruction",
+        "Card Explanation English": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+        "Card Explanation Turkish": "Her iki oyuncu da ellerinden mümkün olduğu kadar çok kart atar, ardından her oyuncu attığı aynı sayıda kartı çeker."
+    },
+    {
+        "id": 19,
+        "Card Name": "Shard of Greed",
+        "Card Explanation English": "Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.",
+        "Card Explanation Turkish": "Bu kart oynandıktan sonra her kart çekişinizde bu karta bir Açgözlülük puanı ekleyin. Bu kartın Açgüzlülük puanı iki veya daha fazla olduğu zaman bu kartı yokedin ve 2 kart çekin."
+    },
+    {
+        "id": 20,
+        "Card Name": "Magical Arm Shield",
+        "Card Explanation English": "When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.",
+        "Card Explanation Turkish": "Siz bir canavarı kontrol ederken rakibiniz bir saldırı ilan ettiğinde: Saldıran canavar hariç, rakibinizin kontrolündeki 1 açık canavarı hedefleyin; Savaş Aşaması sonuna kadar o hedefin kontrolünü elinize alın ve sizin canavrınız yerine kontrol ettiğiniz canavarın saldırıya uğramasını sağlayın ve hasar hesaplaması yapın."
+    },
 ]
 

@@ -28,6 +28,7 @@ function SearchFilter() {
         }).map((item) => (
           <section key={item.id} className='Item'>
             <h1>Card Name = <span style={{ color: "rgb(250, 75, 0)", fontWeight: 600, textDecoration: "underline" }}>{item['Card Name']}</span></h1>
+            <h2>ID : <span style={{ color: "rgb(200, 0, 0)", fontWeight: 600, textDecoration: "underline" }}>{item.id}</span></h2>
             <p><span style={{ color: "rgb(200, 0, 0)", fontSize: "20px", fontWeight: 600, textDecoration: "underline" }}>Turkish</span> = {item['Card Explanation Turkish']}</p>
             <p><span style={{ color: "rgb(200, 0, 0)", fontSize: "20px", fontWeight: 600, textDecoration: "underline" }}>English</span> = {item['Card Explanation English']}</p>
           </section>
