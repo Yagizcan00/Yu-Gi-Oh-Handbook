@@ -1,36 +1,45 @@
 import React, { useState } from 'react'
 import "./SearchFilter.scss"
-import { cardData } from '../data/CardData'
+import cardData from "../data/cardData.json"
 
 
 function SearchFilter() {
 
   const [search, setSearch] = useState("")
+  const [filteredCards, setFilteredCards] = useState(cardData)
 
-  console.log(search)
+  const handleChange = (e) => {
+
+    const searchingItem = e.target.value;
+
+    setSearch(searchingItem)
+
+    const filteredItems = cardData.filter((item) =>
+      item['Card Name'].toLowerCase().includes(searchingItem.toLowerCase())
+    );
+
+    setFilteredCards(filteredItems);
+  }
 
   return (
     <div className='SearchFilter'>
 
       <input
-        onChange={(e) => setSearch(e.target.value)}
+        onChange={handleChange}
         type="text"
+        value={search}
         className='SearchingBar'
         placeholder='Search Card Name'
       />
 
       <section className='Items'>
 
-        {cardData.filter((item) => {
-          return search.toLowerCase() === ""
-            ? item
-            : item['Card Name'].toLowerCase().includes(search);
-        }).map((item) => (
+        {filteredCards.map((item) => (
           <section key={item.id} className='Item'>
-            <h1>Card Name = <span style={{ color: "rgb(250, 75, 0)", fontWeight: 600, textDecoration: "underline" }}>{item['Card Name']}</span></h1>
-            <h2>ID : <span style={{ color: "rgb(200, 0, 0)", fontWeight: 600, textDecoration: "underline" }}>{item.id}</span></h2>
-            <p><span style={{ color: "rgb(200, 0, 0)", fontSize: "20px", fontWeight: 600, textDecoration: "underline" }}>Turkish</span> = {item['Card Explanation Turkish']}</p>
-            <p><span style={{ color: "rgb(200, 0, 0)", fontSize: "20px", fontWeight: 600, textDecoration: "underline" }}>English</span> = {item['Card Explanation English']}</p>
+            <h1>Card Name = <span className='Span1'>{item['Card Name']}</span></h1>
+            <h2>ID : <span className='Span1'>{item.id}</span></h2>
+            <p><span className='Span2'>Turkish</span> = {item['Card Explanation Turkish']}</p>
+            <p><span className='Span2'>English</span> = {item['Card Explanation English']}</p>
           </section>
         ))}
 
