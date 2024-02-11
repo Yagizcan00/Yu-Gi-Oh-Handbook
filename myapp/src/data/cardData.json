@@ -426,169 +426,169 @@
         "Card Explanation Turkish": "Rakibinizin kontrolündeki her açık canavar, kendi Seviyesi x 100 ATK kaybeder."
     },
     {
-        "id": 71,
+        "id": 72,
         "Card Name": "Cost Down",
         "Card Explanation English": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
         "Card Explanation Turkish": "1 kartı atın; Bu turun geri kalanında elinizdeki tüm canavarların Seviyelerini 2 azaltın (Çağırıldıktan sonra bile)."
     },
     {
-        "id": 72,
+        "id": 73,
         "Card Name": "Reload",
         "Card Explanation English": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
         "Card Explanation Turkish": "Elinizdeki tüm kartları destenize ekleyin ve karıştırın. Daha sonra destenize eklediğiniz sayıda kartı çekin."
     },
     {
-        "id": 73,
+        "id": 74,
         "Card Name": "Raigeki",
         "Card Explanation English": "Destroy all monsters your opponent controls.",
         "Card Explanation Turkish": "Rakibinizin kontrolündeki tüm canavarları yok edin."
     },
     {
-        "id": 74,
+        "id": 75,
         "Card Name": "Mask of the Accursed",
         "Card Explanation English": "The monster equipped with this card cannot attack. The controller of the equipped monster takes 500 points of damage during each of your Standby Phases.",
         "Card Explanation Turkish": "Bu kartın eklendiği canavar saldıramaz. Eklenen canavarı kontrol eden kişi, Bekleme Aşamalarınızın her biri sırasında 500 puan hasar alır."
     },
     {
-        "id": 75,
+        "id": 76,
         "Card Name": "Metalmorph",
         "Card Explanation English": "Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.",
         "Card Explanation Turkish": "Sahadaki 1 açık canavarı hedefleyin; bu kartı o hedefe donatın. 300 ATK/DEF kazanır. Saldırırsa; yalnızca hasar hesaplaması sırasında, saldırdığı hedefinin ATK'sının yarısı kadar ATK kazanır."
     },
     {
-        "id": 76,
+        "id": 77,
         "Card Name": "Lightforce Sword",
         "Card Explanation English": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
         "Card Explanation Turkish": "Rakibinizin elinden kapalı olarak rastgele 1 kartı çıkarın. Rakibinizin bu kartın etkinleştirilmesinden sonraki 4. Bekleme Aşamasında, o kartı rakibinizin eline geri verin."
     },
     {
-        "id": 77,
+        "id": 78,
         "Card Name": "Dust Tornado",
         "Card Explanation English": "Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.",
         "Card Explanation Turkish": "Rakibinizin kontrolündeki 1 Büyü/Tuzağı hedefleyin; hedeflediğiniz kartı yok edin ve sonra isterseniz elinizden 1 Büyü/Tuzak kartını kapalı olarak oyayabilirsiniz."
     },
     {
-        "id": 78,
+        "id": 79,
         "Card Name": "Magic Cylinder",
         "Card Explanation English": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
         "Card Explanation Turkish": "Rakibin canavarı bir saldırı ilan ettiğinde: Saldıran canavarı hedef alın; saldırıyı engelleyin ve saldıran canavarın ATK puanının yarısı kadar rakibinizin can puanlarını azaltın."
     },
     {
-        "id": 79,
+        "id": 80,
         "Card Name": "Armory Call",
         "Card Explanation English": "Add 1 Equip Spell from your Deck to your hand, then you can equip it to 1 appropriate monster you control. You can only activate 1 'Armory Call' per turn.",
         "Card Explanation Turkish": "Destenizden elinize 1 Ekleme(Equip) Büyüsü ekleyin, ardından onu kontrolünüzdeki 1 uygun canavara ekleyin. Tur başına yalnızca 1 'Armory Call' etkinleştirebilirsiniz."
     },
     {
-        "id": 80,
+        "id": 81,
         "Card Name": "Reinforcements",
         "Card Explanation English": "Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.",
         "Card Explanation Turkish": "Sahadaki 1 açık canavarı hedefleyin; Bu turun sonuna kadar 500 ATK kazanır."
     },
     {
-        "id": 81,
+        "id": 82,
         "Card Name": "Rising Energy",
         "Card Explanation English": "Discard 1 card, then target 1 face-up monster on the field; that target gains 1500 ATK until the end of this turn.",
         "Card Explanation Turkish": "1 kartı atın ve sahadaki 1 açık canavarı hedefleyin; o hedef bu turun sonuna kadar 1500 ATK kazanır."
     },
     {
-        "id": 82,
+        "id": 83,
         "Card Name": "Mirror Wall",
         "Card Explanation English": "Halve the ATK of your opponent's attacking monsters. Once per turn, during your Standby Phase, pay 2000 LP or destroy this card.",
         "Card Explanation Turkish": "Rakibinizin saldıran canavarlarının saldırı puanını yarıya indirin. Her tur bir kez, Bekleme Aşamanız sırasında 2000 LP ödeyin veya bu kartı yok edin."
     },
     {
-        "id": 83,
+        "id": 84,
         "Card Name": "Embodiment of Apophis",
         "Card Explanation English": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap.)",
         "Card Explanation Turkish": "Ana Aşama sırasında: Bu kartı Normal Canavar olarak özel çağırın (Sürüngen/EARTH/Seviye 4/ATK 1600/DEF 1800). (Bu kart aynı zamanda hala bir Tuzaktır.)"
     },
     {
-        "id": 84,
+        "id": 85,
         "Card Name": "Mask of Weakness",
         "Card Explanation English": "Target 1 attacking monster; that target loses 700 ATK until the end of this turn.",
         "Card Explanation Turkish": "Saldıran 1 canavarı hedefleyin; o hedef bu turun sonuna kadar 700 ATK kaybeder."
     },
     {
-        "id": 85,
+        "id": 86,
         "Card Name": "Shadow of Eyes",
         "Card Explanation English": "When a monster(s) is Set on your opponent's field: Target 1 of those Set monsters; change that Set monster to face-up Attack Position. (Flip Effects are not activated.)",
         "Card Explanation Turkish": "Rakibiniz sahasına Üstü Kapalı Savnuma Pozisyonunda bir canavar/canavarlar yerleştirdiğinde: Bu Üstü Kapalı Savnuma Pozisyonundaki canavarlarından 1 tanesini hedefleyin; o Üstü Kapalı Savnuma Pozisyonundaki canavarını açıp Saldırı Konumuna değiştirin. (Çevirme(FLIP) Efektleri etkinleştirilmez.)"
     },
     {
-        "id": 86,
+        "id": 87,
         "Card Name": "Tragedy",
         "Card Explanation English": "When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.",
         "Card Explanation Turkish": "Rakibinizin kontrolündeki açık Saldırı Konumundaki canavar/canavarlar açık Savunma Konumuna değiştirildiğinde: Rakibinizin kontrolündeki tüm Savunma Konumundaki canavarları yok edin."
     },
     {
-        "id": 87,
+        "id": 88,
         "Card Name": "Trap Jammer",
         "Card Explanation English": "When your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.",
         "Card Explanation Turkish": "Rakibiniz Savaş Aşamasında bir Tuzak Kartını etkinleştirdiğinde: Etkinleştirmeyi engelleyin ve eğer yaparsanız onu yok edin."
     },
     {
-        "id": 88,
+        "id": 89,
         "Card Name": "Harpie's Feather Duster",
         "Card Explanation English": "Destroy all Spells and Traps your opponent controls.",
         "Card Explanation Turkish": "Rakibinizin kontrolündeki tüm Büyüleri ve Tuzakları yok edin."
     },
     {
-        "id": 89,
+        "id": 90,
         "Card Name": "Megamorph",
         "Card Explanation English": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
         "Card Explanation Turkish": "LP'niz rakibinizinkinden düşük olduğunda, eklenen canavarın ATK'sı orijinal ATK'sının iki katı olur. LP'niz rakibinizinkinden yüksekken, eklenen canavarın ATK'sı orijinal ATK'sının yarısı kadar olur."
     },
     {
-        "id": 90,
+        "id": 91,
         "Card Name": "Big Shield Gardna",
         "Card Explanation English": "When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
         "Card Explanation Turkish": "Bu kapalı kartı hedef alan bir Büyü Kartı etkinleştirildiğinde (Hızlı Etki): Bu kartı açık Savunma Konumuna değiştirin ve etkinleştirmeyi engelleyin. Bu karta saldırılırsa, Hasar Adımının sonunda onu Saldırı Konumuna değiştirin."
     },
     {
-        "id": 91,
+        "id": 92,
         "Card Name": "Penguin Soldier",
         "Card Explanation English": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
         "Card Explanation Turkish": "DÖNDÜĞÜNDE: Sahadaki en fazla 2 canavarı hedefleyebilirsiniz; bu hedefleri sahibinin eline geri verin."
     },
     {
-        "id": 92,
+        "id": 93,
         "Card Name": "Double Coston",
         "Card Explanation English": "This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.",
         "Card Explanation Turkish": "Bu kart, bir KARANLIK ve yüksek yıldızlı bir canavarının Çağrısı için 2 farklı canavar olarak değerlendirilebilir ve böylece 6 ve daha yüksek yıldızlı bir canavar için iki canavar yerine sadece bu canavarı feda ederek ilgili canavarı çağırabilirsiniz."
     },
     {
-        "id": 93,
+        "id": 94,
         "Card Name": "Yomi Ship",
         "Card Explanation English": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
         "Card Explanation Turkish": "Eğer bu kart savaşta yok edilir ve GY'ye gönderilirse: Bu kartı yok eden canavarı yok edin."
     },
     {
-        "id": 94,
+        "id": 95,
         "Card Name": "The White Stone of Ancients",
         "Card Explanation English": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 'Blue-Eyes' monster from your Deck. You can banish this card from your GY, then target 1 'Blue-Eyes' monster in your GY; add it to your hand. You can only use this effect of 'The White Stone of Ancients' once per turn.",
         "Card Explanation Turkish": "Her tur bir kez, Son Aşama sırasında, eğer bu kart bu tur GY'ye gönderilirse: Destenizden 1 'Blue-Eyes' canavarını özel çağırabilirsiniz. Bu kartı GY'nizden çıkarabilir(banlayabilir yani bir daha kullanmamayı ve oyun dışı kılmayı seçebilir), ardından GY'nizdeki 1 'Blue-Eyes' canavarını hedefleyebilir ve elinize ekleyebilirsiniz. 'The White Stone of Ancients' efektini turda yalnızca bir kez kullanabilirsiniz."
     },
     {
-        "id": 95,
+        "id": 96,
         "Card Name": "Kaiser Sea Horse",
         "Card Explanation English": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.",
         "Card Explanation Turkish": "Bu kartı, bir IŞIK canavarını çağırmak için 2 farklı canavarı feda ediyor olarak değerlendirebilirsiniz yani iki farkı canavarı feda etmek yerine sadece bu canavarı feda ederek 6 veya daha yüksek yıdızlı IŞIK tipi canavarı çağırabilirsiniz."
     },
     {
-        "id": 96,
+        "id": 97,
         "Card Name": "Sphere Kuriboh",
         "Card Explanation English": "When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
         "Card Explanation Turkish": "Rakibinizin canavarı saldırı ilan ettiğinde: Bu kartı elinizden GY'ye gönderebilirsiniz; saldıran canavarı Savunma Konumuna değiştirin. Ritüel Çağırdığınızda, Ritüel Çağırma için gerekli canavarlardan biri olarak bu kartı GY'nizden çıkarabilirsiniz."
     },
     {
-        "id": 97,
+        "id": 98,
         "Card Name": "Flamvell Grunika",
         "Card Explanation English": "If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of the destroyed monster x 200.",
         "Card Explanation Turkish": "Eğer bu kart savaşta bir canavarı yok eder ve onu GY'ye gönderirse: Rakibinize, yok edilen canavarın orijinal Seviyesi x 200'e eşit LP hasarı verin."
     },
     {
-        "id": 98,
+        "id": 99,
         "Card Name": "Jinzo",
         "Card Explanation English": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
         "Card Explanation Turkish": "Tuzak Kartları ve sahadaki etkileri etkinleştirilemez. Sahadaki tüm Tuzak etkilerini engelleyin."
