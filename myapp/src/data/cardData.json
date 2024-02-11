@@ -45,7 +45,7 @@
         "id": 8,
         "Card Name": "Trap Hole",
         "Card Explanation English": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
-        "Card Explanation Turkish": "Rakibiniz Normal veya Flip 1000 veya daha fazla saldırı puanına sahip 1 canavar çağırdığında: O canavarı hedefleyin; o hedefi yok et."
+        "Card Explanation Turkish": "Rakibiniz Normal veya Flip özelliği olan, 1000 veya daha fazla ATK puanına sahip 1 canavar çağırdığında: O canavarı hedefleyin; o hedefi yok et."
     },
     {
         "id": 9,
@@ -177,7 +177,7 @@
         "id": 30,
         "Card Name": "Parasite Paracide",
         "Card Explanation English": "FLIP: Put this card face-up in your opponent's Deck and shuffle it. When your opponent draws this card, it Special Summoned to their side of the field in face-up Defanse Position, and inflicts 1000 damage to them. Then, while this card is face-up on the field, all monsters your opponent controls become Insect Type monsters.",
-        "Card Explanation Turkish": "FLIP: Bu kartı rakibinizin destesine koyun ve karıştırın.  Rakibiniz bu kartı çektiğinde, açık Savunma Konumunda Özel Çağrılır ve kartı çeken kişiye 1000 hasar verir.  Daha sonra, bu kart sahada açıkken, rakibinizin kontrolündeki tüm canavarlar Böcek Tipi canavarlara dönüşür."
+        "Card Explanation Turkish": "DÖNDÜĞÜNDE: Bu kartı rakibinizin destesine koyun ve karıştırın.  Rakibiniz bu kartı çektiğinde, açık Savunma Konumunda Özel Çağrılır ve kartı çeken kişiye 1000 hasar verir.  Daha sonra, bu kart sahada açıkken, rakibinizin kontrolündeki tüm canavarlar Böcek Tipi canavarlara dönüşür."
     },
     {
         "id": 31,
@@ -232,5 +232,161 @@
         "Card Name": "Ultimate Offering",
         "Card Explanation English": "During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.",
         "Card Explanation Turkish": "Ana Aşamanız veya rakibinizin Savaş Aşaması sırasında: 500 Yaşam Puanı ödeyerek 1 canavarı normal olarak sahaya Saldırı/Kapalı Savunma pozisyonunda çağırabilirsiniz (burada normal olarak ile kast edilen şey her tur bir kere oynayabildiğiniz 1-4 yıldızlığı canavarlar ya da gerekli sayıda kartımızı feda ederek çağırdığımız diğer canavarlar. Kısaca bu kart 500 LP karşılığında tur yeniden bize geçmiş gibi davranmamızı sağlıyor.)."
+    },
+    {
+        "id": 40,
+        "Card Name": "Hey, Trunade!",
+        "Card Explanation English": "Return all Set Spells and Traps on the field to the hand.",
+        "Card Explanation Turkish": "Sahadaki tüm Büyüler ve Tuzaklar oyuncuların ellerine geri verilir."
+    },
+    {
+        "id": 41,
+        "Card Name": "Lord of D.",
+        "Card Explanation English": "Neither player can target Dragon monsters on the field with card effects.",
+        "Card Explanation Turkish": "Hiçbir oyuncu sahadaki Dragon canavarlarını kart efektleriyle hedefleyemez."
+    },
+    {
+        "id": 42,
+        "Card Name": "Trap Master",
+        "Card Explanation English": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+        "Card Explanation Turkish": "DÖNDÜĞÜNDE: Sahadaki 1 Tuzak Kartı seçin ve onu yok edin. Seçilen kart kapalı ise, kartı alın ve görün. Eğer bu bir Tuzak Kartı ise yok edilir. Eğer bu bir Büyü Kartı ise eski konumuna geri getirin."
+    },
+    {
+        "id": 43,
+        "Card Name": "Monster Reborn",
+        "Card Explanation English": "Target 1 monster in either GY; Special Summon it.",
+        "Card Explanation Turkish": "Her iki GY'da kullanabilirsiniz. 1 canavarı seçin ve onu özel çağırın."
+    },
+    {
+        "id": 44,
+        "Card Name": "Hane-Hane",
+        "Card Explanation English": "FLIP: Select 1 monster on the field and return it to its owner's hand.",
+        "Card Explanation Turkish": "DÖNDÜĞÜNDE: Sahadaki 1 canavarı seçin ve onu sahibinin eline geri verin."
+    },
+    {
+        "id": 45,
+        "Card Name": "Horn of the Unicorn",
+        "Card Explanation English": "The equipped monster gains 700 ATK and DEF. When this card is sent from the field to the Graveyard: Return it to the top of the Deck.",
+        "Card Explanation Turkish": "Eklenen canavar 700 ATK ve DEF kazanır. Bu kart sahadan mezarlığa gönderildiğinde: Onu destenin en üstüne geri koyun."
+    },
+    {
+        "id": 46,
+        "Card Name": "Yami",
+        "Card Explanation English": "All Fiend and Spellcaster monsters on the field gain 200 ATK/DEF, also all Fairy monsters on the field lose 200 ATK/DEF.",
+        "Card Explanation Turkish": "Sahadaki tüm Fiend ve Spellcaster canavarları 200 ATK/DEF kazanır, ayrıca sahadaki tüm Fairy canavarları 200 ATK/DEF kaybeder."
+    },
+    {
+        "id": 47,
+        "Card Name": "Book of Secret Arts",
+        "Card Explanation English": "A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+        "Card Explanation Turkish": "Bu kartın eklendiği Spellcaster-Tipi canavarın ATK ve DEF'i 300 puan artar."
+    },
+    {
+        "id": 48,
+        "Card Name": "Little-Winguard",
+        "Card Explanation English": "Once per turn, during your End Phase: You can change the battle position of this card.",
+        "Card Explanation Turkish": "Her tur bir kez, Son Aşamanız sırasında: Bu kartın savaş konumunu değiştirebilirsiniz."
+    },
+    {
+        "id": 49,
+        "Card Name": "Dark Magician Girl",
+        "Card Explanation English": "Gains 300 ATK for every 'Dark Magician' or 'Magician of Black Chaos' in the GY.",
+        "Card Explanation Turkish": "GY'deki her 'Dark Magician' veya 'Magician of Black Chaos' için 300 ATK kazanır."
+    },
+    {
+        "id": 50,
+        "Card Name": "Dark Hole",
+        "Card Explanation English": "Destroy all monsters on the field.",
+        "Card Explanation Turkish": "Alandaki bütün canavarları yok edilir (iki oyuncunun canavarlarına da etki eder)."
+    },
+    {
+        "id": 51,
+        "Card Name": "Skull Dice",
+        "Card Explanation English": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+        "Card Explanation Turkish": "Altı yüzlü bir zar atın. Rakibinizin halihazırda kontrol ettiği tüm canavarlar, bu turun sonuna kadar sonuç x 100 kadar ATK/DEF kaybeder."
+    },
+    {
+        "id": 52,
+        "Card Name": "Gilford the Lightning",
+        "Card Explanation English": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+        "Card Explanation Turkish": "Bu kartı çağırmak için 3 canavarı feda etmeniz gerekli (üstü kapalı savunma modunda çağırılamaz). Bu şekilde çağrılırsa: Rakibinizin kontrolündeki tüm canavarları yok edin."
+    },
+    {
+        "id": 53,
+        "Card Name": "Panther Warrior",
+        "Card Explanation English": "This card cannot declare an attack unless you Tribute 1 monster.",
+        "Card Explanation Turkish": "Bu kart, 1 canavar feda etmediğiniz sürece saldırı ilan edemez."
+    },
+    {
+        "id": 54,
+        "Card Name": "Graceful Dice",
+        "Card Explanation English": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+        "Card Explanation Turkish": "Altı yüzlü bir zar atın. Şu anda kontrol ettiğiniz tüm canavarlar, bu turun sonuna kadar sonuç x 100'e eşit ATK/DEF kazanır."
+    },
+    {
+        "id": 55,
+        "Card Name": "Polymerization",
+        "Card Explanation English": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+        "Card Explanation Turkish": "Elinizdeki veya sahanızdaki canavarları Füzyon Malzemesi olarak kullanarak Ekstra Destenizden 1 Füzyon Canavarını Füzyon çağırın."
+    },
+    {
+        "id": 56,
+        "Card Name": "Shield & Sword",
+        "Card Explanation English": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.",
+        "Card Explanation Turkish": "Bu turun sonuna kadar sahadaki tüm açık canavarların orijinal ATK ve DEF değerlerini değiştirin."
+    },
+    {
+        "id": 57,
+        "Card Name": "Stim-Pack",
+        "Card Explanation English": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+        "Card Explanation Turkish": "Eklenen canavar 700 ATK kazanır. Bekleme Aşamalarınızın her biri sırasında, eklenen canavar 200 ATK kaybeder."
+    },
+    {
+        "id": 58,
+        "Card Name": "Exodia the Forbidden One",
+        "Card Explanation English": "If you have 'Right Leg of the Forbidden One', 'Left Leg of the Forbidden One', 'Right Arm of the Forbidden One' and 'Left Arm of the Forbidden One' in addition to this card in your hand, you win the Duel.",
+        "Card Explanation Turkish": "Eğer elinizde bu karta ek olarak 'Right Leg of the Forbidden One', 'Left Leg of the Forbidden One', 'Right Arm of the Forbidden One' ve 'Left Arm of the Forbidden One' canavarları varsa düelloyu kazanırsınız."
+    },
+    {
+        "id": 59,
+        "Card Name": "Gearfried the Iron Knight",
+        "Card Explanation English": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+        "Card Explanation Turkish": "Eğer oyunculardan herhangi biri bu karta Ekleme Kartını/Kartlarını eklerse: O Ekleme Kartını/Kartlarını yok edin."
+    },
+    {
+        "id": 60,
+        "Card Name": "Ookazi",
+        "Card Explanation English": "Inflict 800 points of damage to your opponent's Life Points.",
+        "Card Explanation Turkish": "Rakibinizin Yaşam Puanlarına 800 puanlık hasar verin."
+    },
+    {
+        "id": 61,
+        "Card Name": "Mirror Force",
+        "Card Explanation English": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+        "Card Explanation Turkish": "Rakibinizin canavarı bir saldırı ilan ettiğinde: Rakibinizin Saldırı Konumundaki tüm canavarları yok edin."
+    },
+    {
+        "id": 62,
+        "Card Name": "Stop Defense",
+        "Card Explanation English": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.",
+        "Card Explanation Turkish": "Rakibinizin sahasındaki 1 Savunma Konumundaki canavarı seçin ve onu Saldırı Konumuna çevirin."
+    },
+    {
+        "id": 63,
+        "Card Name": "Wall of Illusion",
+        "Card Explanation English": "If this card is attacked by a monster, after damage calculation: Return that monster to the hand.",
+        "Card Explanation Turkish": "Eğer bu kart bir canavar tarafından saldırıya uğrarsa, hasar hesaplamasından sonra o canavarı ele geri verin."
+    },
+    {
+        "id": 64,
+        "Card Name": "The Stern Mystic",
+        "Card Explanation English": "FLIP: Reveal all face-down cards on the field (Flip Effects are not activated), then return them to their original positions.",
+        "Card Explanation Turkish": "DÖNDÜĞÜNDE: Sahadaki tüm kapalı kartları açın ve bakın, ardından onları orijinal konumlarına geri getirin."
+    },
+    {
+        "id": 65,
+        "Card Name": "Fairy Meteor Crush",
+        "Card Explanation English": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+        "Card Explanation Turkish": "Eklenen canavar bir Savunma Konumundaki canavara saldırırsa, Savunma Konumundaki bir canavara değil de Saldırı Konumundaki bir canavara saldırmış gibi rakibinize hasar verin (verilen hasar = canavarınızın ATK'si - rakibin canavarının DEF'i)."
     }
 ]
