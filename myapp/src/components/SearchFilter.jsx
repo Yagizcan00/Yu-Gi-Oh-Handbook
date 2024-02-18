@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import "./SearchFilter.scss"
 import cardData from "../data/cardData.json"
+import { RxReset } from "react-icons/rx";
 
 
 function SearchFilter() {
@@ -21,16 +22,30 @@ function SearchFilter() {
     setFilteredCards(filteredItems);
   }
 
+  const handleReset = (e) => {
+
+    setSearch("")
+
+    const filteredItems = cardData.filter((item) =>
+      item['Card Name'].toLowerCase().includes("")
+    );
+
+    setFilteredCards(filteredItems);
+  }
+
   return (
     <div className='SearchFilter'>
 
-      <input
-        onChange={handleChange}
-        type="text"
-        value={search}
-        className='SearchingBar'
-        placeholder='Search Card Name'
-      />
+      <section className='SearchingBarParent'>
+        <input
+          onChange={handleChange}
+          type="text"
+          value={search}
+          className='SearchingBar'
+          placeholder='Search Card Name'
+        />
+        <RxReset className='ResetIcon' onClick={handleReset} />
+      </section>
 
       <section className='Items'>
 

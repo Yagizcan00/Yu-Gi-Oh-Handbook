@@ -7,17 +7,40 @@
 
     margin-top: 50px;
 
-    .SearchingBar {
-        height: 40px;
-        width: 80vw;
+    .SearchingBarParent {
+        height: 7.5vh;
+        width: 85vw;
 
-        border-radius: 20px;
-        border: 2px solid black;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
 
-        padding: 0px 10px;
+        .SearchingBar {
+            height: 5vh;
+            width: 65vw;
 
-        font-size: 25px;
+            border-radius: 20px;
+            border: 2px solid black;
+
+            padding: 0px 10px;
+
+            font-size: 25px;
+        }
+
+        .ResetIcon {
+            height: 5vh;
+            width: auto;
+
+            margin-left: 5px;
+
+            border: 2px solid black;
+            border-radius: 50%;
+
+            cursor: pointer;
+        }
     }
+
 
     .Items {
         display: flex;

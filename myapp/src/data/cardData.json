@@ -15,7 +15,7 @@
         "id": 3,
         "Card Name": "Scapegoat",
         "Card Explanation English": "Special Summon 4 'Sheep Tokens' (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).",
-        "Card Explanation Turkish": "Savunma Konumunda 4 'Koyun Jetonunu' (Canavar/EARTH/Seviye 1/ATK 0/DEF 0) Özel Çağırın. Bir canavarı çağırmak için feda edilemezler. Bu kartı etkinleştirdiğiniz tur başka canavar çağıramazsınız (ancak savunma pozisyonunda kapalı olarak oynayabilirsiniz)."
+        "Card Explanation Turkish": "Sahanıza savunma Konumunda 4 adet 'Koyun' canavarını özel olarak çağırın (Canavar/EARTH/Seviye 1/ATK 0/DEF 0). Bu 'Koyun' canavarları, yüksek yıldızlı bir canavarı çağırmak için feda edemezsiniz. Bu kartı etkinleştirdiğiniz turda başka canavarı saldırı pozisyonunda sahaya çağıramazsınız ancak savunma pozisyonunda kapalı olarak çağırabilirsiniz."
     },
     {
         "id": 4,
@@ -345,7 +345,7 @@
         "id": 58,
         "Card Name": "Exodia the Forbidden One",
         "Card Explanation English": "If you have 'Right Leg of the Forbidden One', 'Left Leg of the Forbidden One', 'Right Arm of the Forbidden One' and 'Left Arm of the Forbidden One' in addition to this card in your hand, you win the Duel.",
-        "Card Explanation Turkish": "Eğer elinizde bu karta ek olarak 'Right Leg of the Forbidden One', 'Left Leg of the Forbidden One', 'Right Arm of the Forbidden One' ve 'Left Arm of the Forbidden One' canavarları varsa düelloyu kazanırsınız."
+        "Card Explanation Turkish": "Eğer elinizde bu karta ek olarak şu 4 canavar da varsa : 'Right Leg of the Forbidden One', 'Left Leg of the Forbidden One', 'Right Arm of the Forbidden One' ve 'Left Arm of the Forbidden One', düelloyu koşulsuz şartsız kazanırsınız."
     },
     {
         "id": 59,
@@ -592,5 +592,11 @@
         "Card Name": "Jinzo",
         "Card Explanation English": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
         "Card Explanation Turkish": "Tuzak Kartları ve sahadaki etkileri etkinleştirilemez. Sahadaki tüm Tuzak etkilerini engelleyin."
-    }
+    },
+    {
+        "id": 100,
+        "Card Name": "Tribute to The Doomed",
+        "Card Explanation English": "Discard 1 card, then target 1 monster on the field; destroy it.",
+        "Card Explanation Turkish": "Elinizden bir kartı mezarlığınıza atın ve rakibinizin bir canavarını hedef alın, sonra is hedef aldığınız canavarı yok edin."
+    } 
 ]
