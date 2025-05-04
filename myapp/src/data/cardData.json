@@ -21,13 +21,13 @@
         "id": 4,
         "Card Name": "Spell Shattering Arrow",
         "Card Explanation English": "Destroy as many face-up Spell Cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
-        "Card Explanation Turkish": "Rakibinizin kontrolündeki mümkün olduğunca çok sayıda açık Büyü Kartını yok edin ve bunu yaparsanız her biri için rakibinize 500 hasar verin."
+        "Card Explanation Turkish": "Rakibinizin kontrolündeki tüm açık Büyü Kartlarını yok edin ve bunu yaparsanız her biri için rakibinize 500 hasar puanı verin."
     },
     {
         "id": 5,
         "Card Name": "Mystic Box",
         "Card Explanation English": "Target 1 monster your opponent controls and 1 monster you control; destroy the first target, then give control of the second target to your opponent.",
-        "Card Explanation Turkish": "Rakibinizin kontrolündeki 1 canavarı ve kontrolünüzdeki 1 canavarı hedefleyin; ilk hedefi yok edin, ardından ikinci hedefin kontrolünü rakibinize verin."
+        "Card Explanation Turkish": "Rakibinizin kontrolündeki 1 canavarı ve kontrolünüzdeki 1 canavarı hedefleyin; rakibinizin olan seçtiğiniz canavarı yok edin, ardından kendi canavarınızın kontrolünü rakibinize verin."
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "id": 11,
         "Card Name": "Fusion Recovery",
         "Card Explanation English": "Target 1 'Polymerization' in your GY, and 1 monster in your GY that was used as material for a Fusion Summon; add them to your hand.",
-        "Card Explanation Turkish": "GY'nizde 1 'Polimerizasyon'u ve GY'nizde Füzyon Çağrısı için malzeme olarak kullanılan 1 canavarı hedefleyin; bunları elinize ekleyin."
+        "Card Explanation Turkish": "Mezarlığındaki 1 ‘Polymerization’ kartını ve Füzyon Çağrısı için kullanılmış 1 canavarı hedef al; ikisini de eline geri al."
     },
     {
         "id": 12,
@@ -75,7 +75,7 @@
         "id": 13,
         "Card Name": "Mesmeric Control",
         "Card Explanation English": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
-        "Card Explanation Turkish": "Rakibiniz, bu kartı etkinleştirildikten bir sonraki turunda, kart efekti haricinde canavarların savaş konumlarını değiştiremez."
+        "Card Explanation Turkish": "Bu kartı etkinleştirdikten sonraki rakip turunda (yani siz turunuzu bitirince ve tur rakibe geçince), rakibiniz canavarlarının savaş pozisyonlarını kart etkisi kullanarak değiştirmek dışında değiştiremez."
     },
     {
         "id": 14,
@@ -87,13 +87,13 @@
         "id": 15,
         "Card Name": "Burning Land",
         "Card Explanation English": "When this card is activated: If there are any Field Spell Cards on the field, destroy them. During each player's Standby Phase: The turn player takes 500 damage.",
-        "Card Explanation Turkish": "Bu kart çalıştırıldığında: Eğer sahada herhangi bir Saha Büyü Kartı varsa, onları yok edin. Her oyuncunun Bekleme Aşamasında: Sıradaki oyuncu 500 hasar alır."
+        "Card Explanation Turkish": "Bu kart etkinleştirildiğinde: Sahada Alan Büyü Kartı varsa, onları yok et. Her oyuncu, kendi turu sırasında 500 Hasar alır."
     },
     {
         "id": 16,
         "Card Name": "Brain Control",
         "Card Explanation English": "Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.",
-        "Card Explanation Turkish": "800 LP ödeyin, ardından rakibinizin kontrolündeki açık veya kapalı bir canavar kartını hedefleyin; Son Aşamaya kadar o hedefin kontrolünü elinize alın."
+        "Card Explanation Turkish": "800 LP ödeyin, ardından rakibinizin kontrolündeki açık veya kapalı bir canavar kartını hedefleyin; turun sonuna kadar o hedefin kontrolünü elinize alın."
     },
     {
         "id": 17,
@@ -105,7 +105,7 @@
         "id": 18,
         "Card Name": "Card Destruction",
         "Card Explanation English": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
-        "Card Explanation Turkish": "Her iki oyuncu da ellerinden mümkün olduğu kadar çok kart atar, ardından her oyuncu attığı aynı sayıda kartı çeker."
+        "Card Explanation Turkish": "Her iki oyuncu da ellerindeki kartları mezarlığa atar, ardından her oyuncu attığı sayıda yeni kartı çeker."
     },
     {
         "id": 19,
@@ -123,7 +123,7 @@
         "id": 21,
         "Card Name": "Graverobber",
         "Card Explanation English": "Select 1 Spell Card from your opponent's Graveyard. You can use it as your hand until the end of the turn. If you use it, you take 2000 points of damage.",
-        "Card Explanation Turkish": "Rakibinizin Mezarlığından 1 Büyü Kartı seçin.  Turun sonuna kadar bunu eliniz olarak kullanabilirsiniz.  Kullanırsanız 2000 puanlık hasar alırsınız."
+        "Card Explanation Turkish": "Rakibinin Mezarlığındaki 1 Büyü Kartını seç. Bu kartı, turun sonuna kadar senin elindeymiş gibi kullanabilirsin. Eğer kullanırsan, 2000 Hasar alırsın."
     },
     {
         "id": 22,
@@ -135,13 +135,13 @@
         "id": 23,
         "Card Name": "Fairy Box",
         "Card Explanation English": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
-        "Card Explanation Turkish": "Rakibinizin canavarı bir saldırı ilan ettiğinde: Yazı tura atın ve çağırın.  Doğru söylerseniz saldıran canavarın ATK'sı Savaş Aşamasının sonuna kadar 0 olur.  Bekleme Aşamalarınızın her biri sırasında 500 Yaşam Puanı ödeyin veya bu kartı imha edin."
+        "Card Explanation Turkish": "Rakibin bir canavarla saldırı ilan ettiğinde: Yazı-tura at ve tahmin et. Eğer doğru tahmin edersen, saldıran canavarın Saldırı Puanı (ATK) Savaş Aşamasının sonuna kadar 0 olur. Her tur sana geçtiğinde, eğer bu kartın sahada kalmaya devam etmesini istiyorsan 500 Can Puanı ödemelisin; ödemezsen bu kart yok edilir."
     },
     {
         "id": 24,
         "Card Name": "Crush Card Virus",
         "Card Explanation English": "Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.",
-        "Card Explanation Turkish": "1000 veya daha az ATK puanına sahip olan 1 DARK canavarını feda edin;  Bu kart aktif edildikten sonra rakibiniz bu tur ve bir sonraki tur hasar almaz, ayrıca rakibinizin eline ve kontrol ettiği tüm canavarlara bakarsınız ve aralarındaki canavarları 1500 veya daha fazla ATK puanı olan canavarları yok edin, ardından rakibiniz  Destesinde 1500 veya daha fazla ATK'ya sahip olan 3 canavarı yok eder."
+        "Card Explanation Turkish": "1000 veya daha az Saldırı Puanına sahip bir KARANLIK (DARK) canavarı feda et: Bu kartın etkisi çözüldükten sonra, bir sonraki turun sonuna kadar rakibin hiçbir hasar almaz. Ayrıca, rakibinin eline ve sahadaki tüm canavarlarına bakarsın. Bunu yaparsan, 1500 veya daha fazla Saldırı Puanına sahip olanları yok edersin. Son olarak, rakibin destesinden 1500 veya daha fazla Saldırı Puanına sahip 3 canavarı yok etmelidir."
     },
     {
         "id": 25,
@@ -177,7 +177,7 @@
         "id": 30,
         "Card Name": "Parasite Paracide",
         "Card Explanation English": "FLIP: Put this card face-up in your opponent's Deck and shuffle it. When your opponent draws this card, it Special Summoned to their side of the field in face-up Defanse Position, and inflicts 1000 damage to them. Then, while this card is face-up on the field, all monsters your opponent controls become Insect Type monsters.",
-        "Card Explanation Turkish": "DÖNDÜĞÜNDE: Bu kartı rakibinizin destesine koyun ve karıştırın.  Rakibiniz bu kartı çektiğinde, açık Savunma Konumunda Özel Çağrılır ve kartı çeken kişiye 1000 hasar verir.  Daha sonra, bu kart sahada açıkken, rakibinizin kontrolündeki tüm canavarlar Böcek Tipi canavarlara dönüşür."
+        "Card Explanation Turkish": "FLIP (Çevrilme Etkisi): Bu kartı rakibinin destesine yüzü açık şekilde yerleştir ve karıştır. Rakibin bu kartı çektiğinde, kart otomatik olarak onların sahasına, savunma pozisyonunda ve yüzü açık olarak Özel Çağrı ile gelir. Bu olduğunda, rakibin 1000 Hasar alır. Bu kart sahada yüzü açık kaldığı sürece, rakibin kontrol ettiği tüm canavarlar Böcek Türü olur. 🔹 FLIP (Çevrilme Etkisi): Kart yüzü kapalıyken saldırıya uğrarsa veya elle çevrilirse aktifleşen etkidir.🔹 Yüzü açık (face-up): Kartın içeriğinin görülebildiği durumdur.🔹 Savunma Pozisyonu (Defense Position): Canavar kartı yatay şekilde yerleştirilir; saldırmak yerine savunur.🔹 1000 Hasar: Rakibin Can Puanı 1000 azalır.🔹 Böcek Türü (Insect Type): Kartların ait olduğu yaratık türü değişir; bu bazı kart etkilerini tetikleyebilir."
     },
     {
         "id": 31,
@@ -339,7 +339,7 @@
         "id": 57,
         "Card Name": "Stim-Pack",
         "Card Explanation English": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
-        "Card Explanation Turkish": "Eklenen canavar 700 ATK kazanır. Bekleme Aşamalarınızın her biri sırasında, eklenen canavar 200 ATK kaybeder."
+        "Card Explanation Turkish": "Eklenen canavar 700 ATK kazanır. Tur sırası her rakibe geçtiğinde, eklenen canavar 200 ATK kaybeder."
     },
     {
         "id": 58,
@@ -393,7 +393,7 @@
         "id": 66,
         "Card Name": "Change of Heart",
         "Card Explanation English": "Target 1 monster your opponent controls; take control of it until the End Phase.",
-        "Card Explanation Turkish": "Rakibinizin kontrolündeki 1 canavarı hedefleyin; Son Aşamaya kadar kontrolünü elinize alın."
+        "Card Explanation Turkish": "Rakibinizin kontrolündeki 1 canavarı hedefleyin; Turunuzun sonuna kadar kontrolünü elinize alın."
     },
     {
         "id": 67,
@@ -429,7 +429,7 @@
         "id": 72,
         "Card Name": "Cost Down",
         "Card Explanation English": "Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).",
-        "Card Explanation Turkish": "1 kartı atın; Bu turun geri kalanında elinizdeki tüm canavarların Seviyelerini 2 azaltın (Çağırıldıktan sonra bile)."
+        "Card Explanation Turkish": "Elinizden bir kartınızı direkt mezarlığa atın; Bu turun geri kalanında elinizdeki tüm canavar kartlarının seviyelerini 2 azaltın (Çağırıldıktan sonra bile)."
     },
     {
         "id": 73,
@@ -537,7 +537,7 @@
         "id": 90,
         "Card Name": "Megamorph",
         "Card Explanation English": "While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.",
-        "Card Explanation Turkish": "LP'niz rakibinizinkinden düşük olduğunda, eklenen canavarın ATK'sı orijinal ATK'sının iki katı olur. LP'niz rakibinizinkinden yüksekken, eklenen canavarın ATK'sı orijinal ATK'sının yarısı kadar olur."
+        "Card Explanation Turkish": "LP'niz rakibinizinkinden düşük olduğunda, bu kartı eklediğiniz canavarın ATK'sı orijinal ATK'sının iki katı olur. LP'niz rakibinizinkinden yüksekken, eklenen canavarın ATK'sı orijinal ATK'sının yarısı kadar olur."
     },
     {
         "id": 91,
@@ -567,7 +567,7 @@
         "id": 95,
         "Card Name": "The White Stone of Ancients",
         "Card Explanation English": "Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 'Blue-Eyes' monster from your Deck. You can banish this card from your GY, then target 1 'Blue-Eyes' monster in your GY; add it to your hand. You can only use this effect of 'The White Stone of Ancients' once per turn.",
-        "Card Explanation Turkish": "Her tur bir kez, Son Aşama sırasında, eğer bu kart bu tur GY'ye gönderilirse: Destenizden 1 'Blue-Eyes' canavarını özel çağırabilirsiniz. Bu kartı GY'nizden çıkarabilir(banlayabilir yani bir daha kullanmamayı ve oyun dışı kılmayı seçebilir), ardından GY'nizdeki 1 'Blue-Eyes' canavarını hedefleyebilir ve elinize ekleyebilirsiniz. 'The White Stone of Ancients' efektini turda yalnızca bir kez kullanabilirsiniz."
+        "Card Explanation Turkish": "Her turda bir kez, Turun Sonu Aşamasında (End Phase), eğer bu kart bu tur Mezarlık’a gönderildiyse: Destenizden 1 'Blue-Eyes' (Mavi Gözlü) canavarını Özel Çağrı ile sahaya getirebilirsiniz. Ayrıca, bu kartı Mezarlık’tan oyunun dışına çıkararak (banish), Mezarlık’taki 1 'Blue-Eyes' canavarını hedef alabilir ve elinize alabilirsiniz. Bu ikinci etkiyi yalnızca her turda bir kez kullanabilirsiniz."
     },
     {
         "id": 96,
@@ -598,5 +598,89 @@
         "Card Name": "Tribute to The Doomed",
         "Card Explanation English": "Discard 1 card, then target 1 monster on the field; destroy it.",
         "Card Explanation Turkish": "Elinizden bir kartı mezarlığınıza atın ve rakibinizin bir canavarını hedef alın, sonra is hedef aldığınız canavarı yok edin."
-    } 
+    },
+    {
+        "id": 101,
+        "Card Name": "Mysterious Puppeteer",
+        "Card Explanation English": "Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.",
+        "Card Explanation Turkish": "Sen ya da rakibin her seferinde bir canavar kartını sahaya normal şekilde yerleştirdiğinde ya da yüzüstü duran bir canavarı yüzü açık hale getirdiğinde, sen 500 Can Puanı kazanırsın. 🔹 Normal Summon, bir canavarın eli̇nden sahaya düz şekilde (yüzü açık) yerleştirilmesi demektir.🔹 Flip Summon, daha önce yüzü kapalı duran bir canavarın elle çevrilerek yüzü açık hale getirilmesidir.🔹 Can Puanı (Life Points), oyunda kaybetmemen için sahip olman gereken puanlardır. Sıfırlanırsa oyunu kaybedersin."
+    },
+    {
+        "id": 102,
+        "Card Name": "Invitation to a Dark Sleep",
+        "Card Explanation English": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
+        "Card Explanation Turkish": "Bu canavar sahaya çağrıldığında (Özel Çağrı hariç), rakibinin kontrol ettiği bir canavarı seç. Bu kart sahada yüzü açık kaldığı sürece, seçilen canavar saldırı yapamaz."
+    },
+    {
+        "id": 103,
+        "Card Name": "Catapult Turtle",
+        "Card Explanation English": "Once per turn: You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster's ATK on the field.",
+        "Card Explanation Turkish": "Her turda bir kez: 1 canavarı feda edebilirsin; sahadayken o canavarın Saldırı Puanının yarısı kadar rakibine hasar verirsin."
+    },
+    {
+        "id": 104,
+        "Card Name": "The Legendary Fisherman",
+        "Card Explanation English": "While 'Umi' is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.",
+        "Card Explanation Turkish": "‘Umi’ kartı sahadayken, bu kart Büyü kartlarının etkilerinden etkilenmez ve saldırı hedefi olarak seçilemez. Ancak bu, rakibinin sana doğrudan saldırmasını engellemez. 🔹 “Umi”: Deniz temalı bir Alan Büyü kartıdır; bazı su canavarlarını güçlendirir.🔹 Büyü Etkilerine Karşı Etkilenmez: Bu karta hiçbir Büyü kartı etki edemez (örneğin yok edemez, kontrolünü alamaz).🔹 Saldırı Hedefi Olamaz: Rakip, bu karta doğrudan saldırı yapamaz.🔹 Doğrudan Saldırı (Direct Attack): Rakip, senin canavarın yoksa ya da bu kart saldırı hedefi olamıyorsa, sana (Can Puanlarına) direkt saldırabilir."
+    },
+    {
+        "id": 105,
+        "Card Name": "Dragon Master Knight",
+        "Card Explanation English": "'Black Luster Soldier' + 'Blue-Eyes Ultimate Dragon' . Must be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.",
+        "Card Explanation Turkish": "'Black Luster Soldier' + 'Blue-Eyes Ultimate Dragon'. Bu kart sadece Füzyon Çağrısı ile sahaya getirilebilir. Bu kart, senin kontrol ettiğin (bu kart hariç) her Ejderha tipi canavar için 500 Saldırı Puanı kazanır."
+    },
+    {
+        "id": 106,
+        "Card Name": "Legendary Sword",
+        "Card Explanation English": "Equip only to a Warrior monster. It gains 300 ATK/DEF.",
+        "Card Explanation Turkish": "Sadece bir Savaşçı tipi canavara donatılabilir. Donatılan canavar 300 Saldırı (ATK) ve 300 Savunma (DEF) puanı kazanır."
+    },
+    {
+        "id": 107,
+        "Card Name": "Dark Energy",
+        "Card Explanation English": "Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points.",
+        "Card Explanation Turkish": "Bu kartla donatılmış olan bir İblis (Fiend) tipi canavarın Saldırı (ATK) ve Savunma (DEF) puanları 300 artar."
+    },
+    {
+        "id": 108,
+        "Card Name": "Lightning Blade",
+        "Card Explanation English": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
+        "Card Explanation Turkish": "Sadece bir Savaşçı (Warrior) tipi canavara donatılabilir. Donatılan canavar 800 Saldırı (ATK) puanı kazanır. Sahadaki tüm SU (WATER) tipi canavarlar 500 Saldırı puanı kaybeder."
+    },
+    {
+        "id": 109,
+        "Card Name": "Black Luster Ritual",
+        "Card Explanation English": "This card is used to Ritual Summon 'Black Luster Soldier'. You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "Card Explanation Turkish": "Bu kart, 'Black Luster Soldier' adlı Ritüel Canavarını çağırmak için kullanılır. Ayrıca elinden veya sahandan, toplam Seviye (Level) değeri 8 veya daha fazla olan canavarları feda etmen gerekir."
+    },
+    {
+        "id": 110,
+        "Card Name": "Black Magic Ritual",
+        "Card Explanation English": "This card is used to Ritual Summon 'Magician of Black Chaos'. You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.",
+        "Card Explanation Turkish": "Bu kart, 'Magician of Black Chaos' adlı Ritüel Canavarı çağırmak için kullanılır. Ayrıca elinden veya sahandan, toplam Seviye (Level) değeri 8 veya daha fazla olan canavarları feda etmen gerekir."
+    },
+    {
+        "id": 111,
+        "Card Name": "Fortress Whale's Oath",
+        "Card Explanation English": "This card is used to Ritual Summon 'Fortress Whale'. You must also Tribute monsters from your hand or field whose total Levels equal 7 or more",
+        "Card Explanation Turkish": "Bu kart, 'Fortress Whale' adlı Ritüel Canavarı çağırmak için kullanılır. Ayrıca elinden veya sahandan, toplam Seviye (Level) değeri 7 veya daha fazla olan canavarları feda etmen gerekir"
+    },
+    {
+        "id": 112,
+        "Card Name": "Backup Soldier",
+        "Card Explanation English": "While there are 5 or more monsters in your Graveyard: Target up to 3 non-Effect Monsters with 1500 or less ATK in your Graveyard; add them to your hand.",
+        "Card Explanation Turkish": "Mezarlığında 5 veya daha fazla canavar varsa: Mezarlığındaki 1500 veya daha az Saldırı Puanına sahip, Etkisiz (non-Effect) Canavarlardan en fazla 3 tanesini hedef al; onları eline geri al."
+    },
+    {
+        "id": 113,
+        "Card Name": "Gift of The Mystical Elf",
+        "Card Explanation English": "Increase your Life Points by 300 points for each monster on the field.",
+        "Card Explanation Turkish": "Sahadaki her bir canavar için 300 Can Puanı kazanırsın."
+    },
+    {
+        "id": 114,
+        "Card Name": "Alligator's Sword Dragon",
+        "Card Explanation English": "'Baby Dragon' + 'Alligator's Sword' . This card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.",
+        "Card Explanation Turkish": "'Baby Dragon' + 'Alligator’s Sword'. Eğer rakibinin sahasında sadece YERYÜZÜ (EARTH), SU (WATER) veya ATEŞ (FIRE) özelliğine sahip yüzü açık canavarlar varsa, bu kart rakibine doğrudan saldırabilir."
+    }
 ]
