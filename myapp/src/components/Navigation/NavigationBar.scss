@@ -1,0 +1,23 @@
+.NavigationBar {
+  margin-top: 20px;
+
+  .NavigationParent {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+    .link{
+      border-radius: 50%;
+      border: 2px solid black;
+      margin: 0px 6vw;
+    }
+
+    .icon {
+      display: flex;
+      padding: 1.25vh;
+
+      height: 5vh;
+      width: 5vh;
+    }
+  }
+}

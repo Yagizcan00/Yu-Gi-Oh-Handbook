@@ -1,0 +1,106 @@
+.SearchFilter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-top: 20px;
+
+    .SearchingBarParent {
+        height: 7.5vh;
+        width: 85vw;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+        .SearchingBar {
+            height: 5vh;
+            width: 65vw;
+
+            border-radius: 20px;
+            border: 2px solid black;
+
+            padding: 0px 10px;
+
+            font-size: 25px;
+        }
+
+        .Icon {
+            height: 5vh;
+            width: 5vh;
+    
+            padding: 2.5px;
+    
+            margin-left: 5px;
+    
+            border: 2px solid black;
+            border-radius: 50%;
+    
+            cursor: pointer;
+        }
+    }
+
+
+    .Items {
+        display: flex;
+        flex-direction: column;
+
+        height: auto;
+        width: 80vw;
+
+        margin: 30px 0px;
+        padding: 20px;
+
+        border: 2px solid black;
+        border-radius: 30px;
+
+        .Item {
+            display: flex;
+            flex-direction: column;
+
+            h1 {
+                font-size: 25px;
+                margin: 10px 0px;
+            }
+
+            h2 {
+                font-size: 20px;
+                margin: 10px 0px;
+            }
+
+            p {
+                font-size: 17.5px;
+                margin: 10px 0px;
+            }
+
+            .Span1 {
+                color: rgb(250, 75, 0);
+                font-weight: 600;
+            }
+
+            .Span2 {
+                color: rgb(200, 0, 0);
+                font-weight: 600;
+                font-size: 20px;
+            }
+
+            .Icon {
+                height: 4vh;
+                width: 4vh;
+        
+                padding: 2.5px;
+        
+                margin-left: 5px;
+        
+                border: 2px solid black;
+                border-radius: 50%;
+        
+                cursor: pointer;
+            }
+        }
+    }
+
+}
